@@ -1,1 +1,1 @@
-# ruts_app_sandbox
+# rust_app_sandbox

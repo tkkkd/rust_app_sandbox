@@ -1,0 +1,7 @@
+[package]
+name = "ruts_app_sandbox"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rust_lib_sandbox = { branch = "main", git = "https://github.com/tkkkd/rust_lib_sandbox" }
